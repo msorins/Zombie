@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 785a0e0a2ce305841bc143e2c8c501f4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: acid_0
+    21300002: acid_1
+    21300004: acid_3
+    21300006: acid_4
+    21300008: acid_6
+    21300010: acid_7
+    21300012: acid_16
+    21300014: acid_17
+    21300016: acid_18
+    21300018: acid_20
+    21300020: acid_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: acid_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 218
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 202
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 212
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 214
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 113
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 105
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 107
+        width: 89
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 105
+        width: 96
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 99
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: acid_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
