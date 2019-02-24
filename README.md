@@ -11,7 +11,7 @@
 ![Demo Image ](https://github.com/msorins/Zombie/blob/master/4.jpg?raw=true "Demo Image")
 
 # Idea
-Eating humans results in more zombies wich means more chances of survival. The goal is to score as many points as possible.
+Eating humans results in more zombies which means more chances of survival. The goal is to score as many points as possible.
 
 
 The game is lost once there are no more zombies on the board.
